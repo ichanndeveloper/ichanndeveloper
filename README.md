@@ -1,16 +1,59 @@
-## Hi there 👋
+# 🪐 Halo semuanya, saya Ahmad Ikhsan Mubarok! <img src="https://giphy.com" width="30px">
 
-<!--
-**ichanndeveloper/ichanndeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://herokuapp.com" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+### 🧑‍💻 Tentang Saya
+- 🔭 Saat ini saya sedang siswa di **SMKN 11 Malang**
+- 🌱 Saya sedang mendalami **Teknologi Backend**
+- 💬 Tanyakan kepada saya tentang **Keahlian di bidang AI, teknologi informasi dan komunikasi**
+- ⚡ Fakta unik: **keahlian yang bahkan anda tidak bisa bayangkan**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Teknologi & Alat Kerja (Tech Stack)
+
+<p align="left">
+  <!-- Bahasa Pemrograman -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  
+  <!-- Framework & Library -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+### 📊 Statistik GitHub
+
+<p align="center">
+  <!-- Kartu Statistik Utama -->
+  <img src="https://vercel.app" alt="Statistik GitHub" height="180px" />
+  
+  <!-- Kartu Bahasa Paling Sering Digunakan -->
+  <img src="https://vercel.app" alt="Bahasa Populer" height="180px" />
+</p>
+
+<p align="center">
+  <!-- Grafik Kontribusi Beruntun -->
+  <img src="https://herokuapp.com" alt="Streak GitHub" />
+</p>
+
+---
+
+### 🌐 Hubungi Saya
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://shields.io" alt="Instagram" />
+  </a>
+  <a href="mailto:ichanndeveloper@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
