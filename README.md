@@ -47,13 +47,13 @@
 
 ### 🌐 Hubungi Saya
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
+  <a href="ichanndev.my.id" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com" target="_blank">
+  <a href="https://www.instagram.com/ichanndm" target="_blank">
     <img src="https://shields.io" alt="Instagram" />
   </a>
-  <a href="mailto:ichanndeveloper@gmail.com">
+  <a href="ichanndeveloper@gmail.com">
     <img src="https://shields.io" alt="Email" />
   </a>
 </p>
